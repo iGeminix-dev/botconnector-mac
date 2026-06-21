@@ -1,6 +1,10 @@
 # BotConnector
 
 <p align="center">
+  <img src="app.png" width="150" alt="BotConnector Logo">
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/platform-macOS_10.13+-blue.svg?logo=apple" alt="macOS Support">
   <img src="https://img.shields.io/github/v/release/iGeminix-dev/botconnector-mac?include_prereleases" alt="Latest Version">
   <img src="https://img.shields.io/github/downloads/iGeminix-dev/botconnector-mac/total?color=green" alt="Downloads">
