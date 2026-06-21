@@ -1,14 +1,16 @@
 # BotConnector
 
 <p align="center">
-  <img src="app.png" width="150" alt="BotConnector Logo">
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/platform-macOS_10.13+-blue.svg?logo=apple" alt="macOS Support">
   <img src="https://img.shields.io/github/v/release/iGeminix-dev/botconnector-mac?include_prereleases" alt="Latest Version">
   <img src="https://img.shields.io/github/downloads/iGeminix-dev/botconnector-mac/total?color=green" alt="Downloads">
   <img src="https://img.shields.io/badge/license-Proprietary-red" alt="License">
+</p>
+
+# BotConnector
+
+<p align="center">
+  <img src="app.png" width="150" alt="BotConnector Logo">
 </p>
 
 **BotConnector** es un gestor de Webhooks y Webhook Bots de Telegram nativo para macOS. Permite monitorizar métricas de rendimiento de tus bots en tiempo real, supervisar logs del sistema y administrar múltiples tokens de bot simultáneamente mediante una interfaz de usuario minimalista y optimizada para el sistema operativo Apple.
